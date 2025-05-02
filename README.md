@@ -27,5 +27,4 @@ fast optimization. The proposed deep learning frameworks have
 outperformed several state-of-the-art methods on the MosMed
 and Seg20Cases datasets.
 
-## Article Under Review with IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI) (IF=5.3).
-## Code will be available post publication.
+
