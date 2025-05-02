@@ -1,6 +1,8 @@
-# CResPIE-ViT: A Compact Vision
-Transformer-based Framework for COVID-19
-Lesion Segmentation and Severity Analysis
+# CResPIE-ViT: A Compact Vision Transformer-based Framework for COVID-19 Lesion Segmentation and Severity Analysis
+
+## Article Under Review with IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI) (IF=5.3).
+## Code will be available post publication.
+
 The ubiquitous impact of the highly contagious
 Coronavirus Disease (COVID-19) extended beyond human mortality
 to cripple the global medical infrastructure. Its symptoms
@@ -24,3 +26,6 @@ preservation of high-level gradients and facilitate efficient and
 fast optimization. The proposed deep learning frameworks have
 outperformed several state-of-the-art methods on the MosMed
 and Seg20Cases datasets.
+
+## Article Under Review with IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI) (IF=5.3).
+## Code will be available post publication.
