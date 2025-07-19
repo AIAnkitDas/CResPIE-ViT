@@ -1,7 +1,7 @@
 # CResPIE-ViT: A Compact Vision Transformer-based Framework for COVID-19 Lesion Segmentation and Severity Analysis
 
 ## Article Under Review with IEEE TRANSACTIONS ON RADIATION AND PLASMA MEDICAL SCIENCES (TRPMS) (IF=3.5).
-## Original code will be available post publication.
+## Original code will be available post peer-review decision.
 
 The ubiquitous impact of the highly contagious
 Coronavirus Disease (COVID-19) extended beyond human mortality
