@@ -18,8 +18,7 @@ versions, CResPIE-ViTv1 and CResPIE-ViTv2 (or CResPIE-
 SegViT). These neural networks constitute a novel and extremely
 lightweight Compact Vision Transformer (CViT) integrated with
 residual blocks of the Principle Information Extractor (PIE)
-module for COVID-19 severity prediction and lesion segmen-
-tation using CT scans, respectively. The novel PIE attention
+module for COVID-19 severity prediction and lesion segmentation using CT scans, respectively. The novel PIE attention
 module is introduced to extract important features from the
 channel and spatial levels of abstraction. Residual connections
 ensure the preservation of high-level gradients and facilitate
